@@ -1,0 +1,15 @@
+{
+  "name": "request-has-param",
+  "version": "1.0.0",
+  "description": "Check request has params or body easily as middleware.",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "request",
+    "params",
+    "check",
+    "body"
+  ],
+  "author": "Matteo Crippa",
+  "license": "MIT"
+}
