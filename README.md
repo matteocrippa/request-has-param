@@ -5,7 +5,7 @@ Easily check for params directly using a middleware.
 # Install
 
 ```shell
-$ npm install --save git+ssh://git@github.com/matteocrippa/request-has-param.git
+$ npm install --save git+https://git@github.com/matteocrippa/request-has-param.git
 ```
 
 # Usage
